@@ -19,8 +19,8 @@
 //  console.log(numbers);
 //  console.log(typeof numbers);
  const users = [10, 20, 30, 40, 50,90];
- const user = users.map((i) => { return i % 2 === 0
+ const user = users.map((i) => i > 20
 
- })
+ )
 
 console.log(user);

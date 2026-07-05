@@ -19,4 +19,4 @@
 //  console.log(numbers);
 //  console.log(typeof numbers);
  const users = [10, 20, 30, 40, 50,90];
- const user
+ const user = users.filter

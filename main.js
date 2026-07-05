@@ -18,4 +18,5 @@
 // numbers.push(40);
 //  console.log(numbers);
 //  console.log(typeof numbers);
- const user = [10, 20, ]
+ const user = [10, 20, 30, 40, 50,90];
+ 

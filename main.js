@@ -9,3 +9,5 @@ const users = ["Ali", "Vali", "G'ani"];
 // console.log(user);
 const remvord = users.pop();
 console.log(users);
+console.log(remvord);
+

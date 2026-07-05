@@ -14,6 +14,7 @@
 const numbers = [1, 2, 3, 4, 5, 6];
 // numbers.reverse();
 // console.log(numbers);
- numbers [0] ='10';
+//  numbers [0] ='10';
+numbers.push(40);
  console.log(numbers);
  

@@ -1,2 +1,2 @@
 const fruits = ["olma", "behi", "nok", "uzum"];
-console.log(fruits);
+console.log( "Uzunligi", fruits.length);

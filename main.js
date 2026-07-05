@@ -4,6 +4,8 @@
 //     console.log(fruits);
     
 // }
-const user = ["Ali", "Vali", "G'ani"];
+const users = ["Ali", "Vali", "G'ani"];
 // user.push("Akmal");
 // console.log(user);
+const remvord = users.pop();
+console.log(users);

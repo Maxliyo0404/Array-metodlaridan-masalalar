@@ -17,4 +17,5 @@
 // //  numbers [0] ='10';
 // numbers.push(40);
 //  console.log(numbers);
+//  console.log(typeof numbers);
  

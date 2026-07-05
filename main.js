@@ -7,7 +7,7 @@
 const users = ["Ali", "Vali", "G'ani"];
 // user.push("Akmal");
 // console.log(user);
-const user = users.pop();
+const user = users.unshift("Ozodbek");
 console.log(users);
 console.log(user);
 

@@ -25,5 +25,5 @@
 
 // console.log(user);
 const num = [1, 5, 6, 9, 0, 3, 7];
-const numbers = num.splice("1", "5")
-console.log(numbers);
+const numbers = num.splice("1", "7")
+console.log(  numbers);

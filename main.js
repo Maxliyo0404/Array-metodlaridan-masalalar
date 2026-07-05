@@ -5,3 +5,5 @@
     
 // }
 const user = ["Ali", "Vali", "G'ani"];
+user.push("Akmal");
+console.log(user);

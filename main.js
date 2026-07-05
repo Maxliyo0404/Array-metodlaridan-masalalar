@@ -18,9 +18,9 @@
 // numbers.push(40);
 //  console.log(numbers);
 //  console.log(typeof numbers);
- const users = [10, 20, 30, 40, 50,90];
- const user = users.map((i) => i >= 20
+//  const users = [10, 20, 30, 40, 50,90];
+//  const user = users.map((i) => i >= 20
 
- )
+//  )
 
-console.log(user);
+// console.log(user);

@@ -18,4 +18,4 @@
 // numbers.push(40);
 //  console.log(numbers);
 //  console.log(typeof numbers);
- const user
+ const user = [10, 20, ]

@@ -4,3 +4,4 @@
 //     console.log(fruits);
     
 // }
+const user = ["Ali", "Vali", "G'ani"];

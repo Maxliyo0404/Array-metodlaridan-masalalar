@@ -7,7 +7,7 @@
 const users = ["Ali", "Vali", "G'ani"];
 // user.push("Akmal");
 // console.log(user);
-const remvord = users.pop();
+const user = users.pop();
 console.log(users);
-console.log(remvord);
+console.log(user);
 

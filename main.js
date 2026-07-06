@@ -59,4 +59,4 @@
 // console.log(fruit);
 // console.log(fruits);
   let numbers = [1, 9, 3, 5, 7, 8, 4, 2];
-  
+  let num = numbers.filter((el)=> el % 2 === 0)

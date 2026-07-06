@@ -55,5 +55,5 @@
 // console.log(arr);
 
 const fruits = ["banana", "apple", "orange", "peach"];
-const fruit.slice(1, 2);
-console.log(fruits);
+const fruit = fruitsslice(1, 2);
+console.log(fruit);

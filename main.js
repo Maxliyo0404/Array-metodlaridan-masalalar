@@ -54,4 +54,4 @@
 // const arr = user.split("-");
 // console.log(arr);
 
-const fruits =
+const fruits = ["banana", "apple", "orange", "peach"];

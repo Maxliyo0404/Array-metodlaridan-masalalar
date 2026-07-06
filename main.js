@@ -58,7 +58,7 @@
 // const fruit = fruits.splice(1, 3, "milon", "arvuz", "kivi");
 // console.log(fruit);
 // console.log(fruits);
-  let numbers = [1, 9, 3, 5, 7, 8, 4, 2];
-  let num = numbers.filter((el)=> el % 2 === 0);
+  let numbers = [1, 0, 3, 5, 7, 8, 4, 2];
+  let num = numbers.sort((el)=> el > 5);
   console.log(num);
   

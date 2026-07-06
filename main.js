@@ -55,6 +55,6 @@
 // console.log(arr);
 
 const fruits = ["banana", "apple", "orange", "peach"];
-const fruit = fruits.splice(1, 3);
+const fruit = fruits.splice(1, 3, "milon", "arvuz");
 console.log(fruit);
 console.log(fruits);

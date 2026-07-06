@@ -59,7 +59,7 @@
 // console.log(fruit);
 // console.log(fruits);
   let numbers = [1, 0, 3, 5, 7, 8, 4, 20];
-  numbers.push(40)
+  numbers.pop()
 //   let num = numbers.map((el)=> el * 2);
 //   let num = numbers.findIndex((el)=> el > 5)
 // let num = numbers.reduce((el, i, a)=> el + i + a, 0)

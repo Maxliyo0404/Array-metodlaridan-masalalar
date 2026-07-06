@@ -54,4 +54,4 @@
 // const arr = user.split("-");
 // console.log(arr);
 
-con
+const fruits =

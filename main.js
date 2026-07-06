@@ -55,3 +55,4 @@
 // console.log(arr);
 
 const fruits = ["banana", "apple", "orange", "peach"];
+fruits

@@ -58,3 +58,5 @@
 // const fruit = fruits.splice(1, 3, "milon", "arvuz", "kivi");
 // console.log(fruit);
 // console.log(fruits);
+  let numbers = [1, 9, 3, 5, 7, 8, 4, 2];
+  

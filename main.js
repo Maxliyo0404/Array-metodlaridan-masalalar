@@ -59,6 +59,7 @@
 // console.log(fruit);
 // console.log(fruits);
   let numbers = [1, 0, 3, 5, 7, 8, 4, 2];
+  let num = numbers.reduce((el, i, a)=>)
 //   let num = numbers.sort((a, b)=> b - a);
   console.log(num);
   

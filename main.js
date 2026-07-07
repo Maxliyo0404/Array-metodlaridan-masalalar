@@ -71,4 +71,4 @@
   // console.log(x);
   // console.log(y);
    const a = 'salom dunyo';
-   const b 
+   const b = a.join(" ") 

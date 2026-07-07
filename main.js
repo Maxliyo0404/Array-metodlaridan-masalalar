@@ -75,7 +75,8 @@
   //  const arr = b.join(" ")
   //  console.log(b);
   //  console.log(a);
-      let son = [2, 3, 8, 0];
-      let num = son.find((el)=> el >= 3);
+      let son = [2, 3, 8, 10, 6, 5];
+      let num = son.filter((el, i, a)=> el > 3)
+      // let num = son.find((el)=> el >= 3);
       console.log(num);
       

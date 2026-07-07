@@ -75,4 +75,5 @@
   //  const arr = b.join(" ")
   //  console.log(b);
   //  console.log(a);
-    
+      let son = [2, 3, 8, 0];
+      son.find((el)=>)

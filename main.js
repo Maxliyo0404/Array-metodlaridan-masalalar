@@ -68,5 +68,6 @@
   
   let x = 5;
   let y = x++;
-  console.log();
+  console.log(x);
+  console.log(y);
   

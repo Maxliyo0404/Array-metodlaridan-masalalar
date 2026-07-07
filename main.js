@@ -66,4 +66,7 @@
 // //   let num = numbers.sort((a, b)=> b - a);
 //   console.log(numbers);
   
+  let x = 5;
+  let y = x++;
+  console.log();
   

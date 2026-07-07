@@ -76,7 +76,7 @@
   //  console.log(b);
   //  console.log(a);
       let son = [2, 3, 8, 10, 6, 5];
-      let num = son.filter((el)=> el > 3)
+      let num = son.sort((a, b)=> b-a);
       // let num = son.find((el)=> el >= 3);
       console.log(num);
       

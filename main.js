@@ -70,9 +70,9 @@
   // let y = x--;
   // console.log(x);
   // console.log(y);
-   const a = 'salom dunyo';
-   const b = a.split(" ");
-   const arr = b.join(" ")
-   console.log(b);
-   console.log(a);
+  //  const a = 'salom dunyo';
+  //  const b = a.split(" ");
+  //  const arr = b.join(" ")
+  //  console.log(b);
+  //  console.log(a);
     

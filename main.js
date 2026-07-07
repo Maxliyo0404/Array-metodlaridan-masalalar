@@ -58,12 +58,12 @@
 // const fruit = fruits.splice(1, 3, "milon", "arvuz", "kivi");
 // console.log(fruit);
 // console.log(fruits);
-  let numbers = [1, 0, 3, 5, 7, 8, 4, 20];
-  let num = numbers.includes()
-//   let num = numbers.map((el)=> el * 2);
-//   let num = numbers.findIndex((el)=> el > 5)
-// let num = numbers.reduce((el, i, a)=> el + i + a, 0)
-//   let num = numbers.sort((a, b)=> b - a);
-  console.log(numbers);
+//   let numbers = [1, 0, 3, 5, 7, 8, 4, 20];
+//   let num = numbers.includes()
+// //   let num = numbers.map((el)=> el * 2);
+// //   let num = numbers.findIndex((el)=> el > 5)
+// // let num = numbers.reduce((el, i, a)=> el + i + a, 0)
+// //   let num = numbers.sort((a, b)=> b - a);
+//   console.log(numbers);
   
   

@@ -76,4 +76,6 @@
   //  console.log(b);
   //  console.log(a);
       let son = [2, 3, 8, 0];
-      son.find((el)=>)
+      son.find((el)=> el > 3);
+      console.log(son);
+      

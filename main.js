@@ -82,12 +82,12 @@
       // const son = [20, 60, 40, 30,70];
       // let num = son.map((el, i)=>el +i);
       // console.log(num);
-      const  = [
+      const users = [
     { ism: "Ali", yosh: 25 },
     { ism: "Vali", yosh: 30 },
     { ism: "Gani", yosh: 22 }
 ];
 
-foydalanuvchilar.forEach((user) => {
+users.forEach((user) => {
     console.log(`${user.ism} ${user.yosh} yoshda.`);
 });

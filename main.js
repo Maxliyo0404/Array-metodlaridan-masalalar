@@ -94,5 +94,6 @@
 
 let frutis = ["banana", "apple", "banana", "orange"];
 let fruit = frutis.push("pier");
+console.log(fruits);
 console.log(fruit);
 

@@ -79,7 +79,15 @@
       // let num = son.sort((a, b)=> b-a);
       // // let num = son.find((el)=> el >= 3);
       // console.log(num);
-      const son = [20, 60, 40, 30,70];
-      let num = son.map((el, i)=>el +i);
-      console.log(num);
-      
+      // const son = [20, 60, 40, 30,70];
+      // let num = son.map((el, i)=>el +i);
+      // console.log(num);
+      const foydalanuvchilar = [
+    { ism: "Ali", yosh: 25 },
+    { ism: "Vali", yosh: 30 },
+    { ism: "Gani", yosh: 22 }
+];
+
+foydalanuvchilar.forEach((user) => {
+    console.log(`${user.ism} ${user.yosh} yoshda.`);
+});

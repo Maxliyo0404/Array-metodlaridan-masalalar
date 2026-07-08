@@ -92,3 +92,4 @@
 //     console.log(`${user.ism} ${user.yosh} yoshda.`);
 // });
 
+let frutis = []

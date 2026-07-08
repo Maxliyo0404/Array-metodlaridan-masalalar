@@ -94,5 +94,8 @@
 
 let frutis = ["banana", "apple", "banana", "orange"];
 frutis.push("pear");
-frutis.forEach( function(fruit))
+frutis.forEach( function(fruit){
+  console.log(frutis);
+  
+})
 

@@ -94,3 +94,4 @@
 
 let frutis = ["banana", "apple", "banana", "orange"];
 let fruit = frutis.pop();
+console.log(fruit);

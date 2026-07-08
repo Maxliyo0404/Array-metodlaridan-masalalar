@@ -92,4 +92,4 @@
 //     console.log(`${user.ism} ${user.yosh} yoshda.`);
 // });
 
-let frutis = []
+let frutis = ["banana", "apple"]

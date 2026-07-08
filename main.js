@@ -88,7 +88,7 @@
 //     { ism: "Gani", yosh: 22 }
 // ];
 
-users.forEach((user) => {
-    console.log(`${user.ism} ${user.yosh} yoshda.`);
-});
+// users.forEach((user) => {
+//     console.log(`${user.ism} ${user.yosh} yoshda.`);
+// });
 

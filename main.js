@@ -89,6 +89,6 @@
 // ];
 
 users.forEach((user) => {
-//     console.log(`${user.ism} ${user.yosh} yoshda.`);
-// });
+    console.log(`${user.ism} ${user.yosh} yoshda.`);
+});
 

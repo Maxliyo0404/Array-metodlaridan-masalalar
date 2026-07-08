@@ -92,10 +92,5 @@
 //     console.log(`${user.ism} ${user.yosh} yoshda.`);
 // });
 
-let frutis = ["banana", "apple", "banana", "orange"];
-frutis.unshift("pear");
-frutis.forEach( function(fruit){
-  console.log(frutis);
-  
-})
+// 
 

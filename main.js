@@ -80,4 +80,6 @@
       // // let num = son.find((el)=> el >= 3);
       // console.log(num);
       const son = [20, 60, 40, 30,70];
-      let num = son.sort()
+      let num = son.sort();
+      console.log();
+      

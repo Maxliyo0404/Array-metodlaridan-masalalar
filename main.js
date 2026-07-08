@@ -80,6 +80,6 @@
       // // let num = son.find((el)=> el >= 3);
       // console.log(num);
       const son = [20, 60, 40, 30,70];
-      let num = son.flat((el)=>el * 2);
+      let num = son.forEach((el)=>el * 2);
       console.log(num);
       

@@ -93,4 +93,4 @@
 // });
 
 let frutis = ["banana", "apple", "banana", "orange"];
-let fruit 
+let fruit = frutis.pop();

@@ -93,7 +93,6 @@
 // });
 
 let frutis = ["banana", "apple", "banana", "orange"];
-let fruit = frutis.push("pier");
-console.log(fruits);
+let fruit = frutis.push("pear");
 console.log(fruit);
 

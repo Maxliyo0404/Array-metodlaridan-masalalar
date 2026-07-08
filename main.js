@@ -93,3 +93,4 @@
 // });
 
 let frutis = ["banana", "apple", "banana", "orange"];
+let fruit 

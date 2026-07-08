@@ -79,4 +79,4 @@
       // let num = son.sort((a, b)=> b-a);
       // // let num = son.find((el)=> el >= 3);
       // console.log(num);
-      const son =
+      const son = [20, 60, 40, 30]

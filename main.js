@@ -93,7 +93,7 @@
 // });
 
 let frutis = ["banana", "apple", "banana", "orange"];
-frutis.push("pear");
+frutis.unshift("pear");
 frutis.forEach( function(fruit){
   console.log(frutis);
   

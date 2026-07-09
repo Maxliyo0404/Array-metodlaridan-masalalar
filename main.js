@@ -93,4 +93,12 @@
 // });
 
 // 
+const num = 2;
+if(num > 0){
+  console.log("Berilgan son musbat" );
+  
+}else{
+  console.log("Berilgan son manfiy");
+  
+}
 

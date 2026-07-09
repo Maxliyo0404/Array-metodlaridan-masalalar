@@ -175,15 +175,24 @@
 // };
 // cars.newCar();
 
-let a = "global";
+// let a = "global";
 
-function first() {
-  let b = "first";
+// function first() {
+//   let b = "first";
 
-  function second() {
-    let c = "second";
-    console.log(a, b, c); // scope chain orqali barchasiga yetadi
+//   function second() {
+//     let c = "second";
+//     console.log(a, b, c); // scope chain orqali barchasiga yetadi
+//   }
+//   second();
+// }
+// first();
+
+
+let a = "fruits";
+function fruit(){
+  function f(){
+    console.log(a,fruit);
+    
   }
-  second();
 }
-first();

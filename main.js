@@ -200,3 +200,9 @@
 //   f();
 // }
 // fruit();
+
+const num = function(a){
+  return function(b){
+    
+  }
+}

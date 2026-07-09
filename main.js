@@ -125,7 +125,7 @@
 //     increment: () => ++count,
 //     getCount: () => count,
 //   };
-// })();
+// })();""
 
 // counter.increment();
 // console.log(counter.getCount()); // 1
@@ -134,4 +134,5 @@
 function greeat (name, callback){
   return callback(name)
 }
-greeat()
+greeat("Rano", (name)=>console.log("salom")
+)

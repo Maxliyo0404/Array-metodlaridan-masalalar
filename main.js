@@ -101,12 +101,32 @@
 //   console.log("Berilgan son manfiy");
   
 // }
-for(let i = 0 ; i < 10; i++){
-  if(i === 5){
-    console.log("Looplar toxtalida");
-    
-    break;
-  }
-  console.log(i);
+// for(let i = 0 ; i < 10; i++){
+
+//   console.log(i);
   
-}
+// // }  
+// (function(){
+//   console.log("salom dunyo");
+  
+// } )()
+// (()=>{
+//   console.log("salomlar");
+  
+// // })();
+// (function (name){
+//   console.log(`salom, ${name} !`);
+  
+// })("Anvar");
+
+// const counter = (function(){
+//   let count = 0;
+// return {
+//     increment: () => ++count,
+//     getCount: () => count,
+//   };
+// })();
+
+// counter.increment();
+// console.log(counter.getCount()); // 1
+// console.log(counter.count); // undefined — himoyalangan

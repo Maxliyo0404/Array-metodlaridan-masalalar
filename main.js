@@ -144,4 +144,4 @@
 // function num(ism, gullar){
 //   return gullar(ism)
 // }
-// num('Maxliyo', (ism)=> console.log(`  ${ism} , HOF funksiyasini amaliy yozilishini bilib oldim`));
+//  

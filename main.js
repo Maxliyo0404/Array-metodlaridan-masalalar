@@ -145,3 +145,11 @@
 //   return gullar(ism)
 // }
 //  
+// function number(a){
+//   return function (b){
+//     return a / b
+//   }
+// }
+// const res = number(120);
+// console.log(res(4));
+

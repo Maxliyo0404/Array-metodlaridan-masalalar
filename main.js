@@ -189,14 +189,14 @@
 // first();
 
 
-let a = "orange";
-function fruit(){
-  let b = "apple";
-  function f(){
-    let c = "banana"
-    console.log(a,b, c);
+// let a = "orange";
+// function fruit(){
+//   let b = "apple";
+//   function f(){
+//     let c = "banana"
+//     console.log(a,b, c);
     
-  }
-  f();
-}
-fruit();
+//   }
+//   f();
+// }
+// fruit();

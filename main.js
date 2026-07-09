@@ -141,8 +141,7 @@
 // }
 // great('Ali',(name)=> console.log(`Salom, ${name}`));
 
-function num(number, ism){
-  return number(ism)
-}
-num('Maxliyo', (ism)=> console.log(`HOF funksiyasini amaliy yozilishini bilib oldim, ${ism}`);
-)
+// function num(ism, gullar){
+//   return gullar(ism)
+// }
+// num('Maxliyo', (ism)=> console.log(`  ${ism} , HOF funksiyasini amaliy yozilishini bilib oldim`));

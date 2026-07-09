@@ -201,14 +201,14 @@
 // }
 // fruit();
 
-const num = function(a){
-  let son = 20;
-  return function(b){
-  let son1 = 40;
-  return son1 * son
-  }
+// const num = function(a){
+//   let son = 20;
+//   return function(b){
+//   let son1 = 40;
+//   return son1 * son
+//   }
   
   
-}
-const res = num(2)
-console.log(res());
+// }
+// const res = num(2)
+// console.log(res());

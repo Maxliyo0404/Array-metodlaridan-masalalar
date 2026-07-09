@@ -155,6 +155,10 @@
 
 const user = {
   name: "Ali",
-  age: 20
-}
-const
+  age: 20,
+  gereat(){
+  console.log(this.name, this.age);
+  
+  },
+};
+user.gereat();

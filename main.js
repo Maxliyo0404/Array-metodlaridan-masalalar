@@ -132,6 +132,6 @@
 // console.log(counter.count); // undefined — himoyalangan
 
 function greeat (name, callback){
-  return(callback(name))
+  return callback(name)
 }
 greeat()

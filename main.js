@@ -153,12 +153,23 @@
 // const res = number(120);
 // console.log(res(4));
 
-const user = {
-  name: "Ali",
-  age: 20,
-  gereat(){
-  console.log(this.name, this.age);
+// const user = {
+//   name: "Ali",
+//   age: 20,
+//   gereat(){
+//   console.log(this.name, this.age);
   
-  },
-};
-user.gereat();
+//   },
+// };
+// user.gereat();
+
+
+const cars ={
+  name: "BMW",
+  modeli: "Molibu",
+  year: 2,
+  newCar(){
+    console.log(this.modeli, this.name, this.year);
+    
+  }
+}

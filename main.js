@@ -202,7 +202,10 @@
 // fruit();
 
 const num = function(a){
+  let son = 20;
   return function(b){
-    
+  let son1 = 40;
   }
+  console.log(son * son1);
+  
 }

@@ -164,13 +164,13 @@
 // user.gereat();
 
 
-const cars ={
-  name: "BMW",
-  modeli: "Molibu",
-  year: 2,
-  newCar(){
-    console.log(this.modeli, this.name, this.year);
+// const cars ={
+//   name: "BMW",
+//   modeli: "Molibu",
+//   year: 2,
+//   newCar(){
+//     console.log(this.modeli, this.name, this.year);
     
-  },
-};
-cars.newCar();
+//   },
+// };
+// cars.newCar();

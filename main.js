@@ -171,5 +171,6 @@ const cars ={
   newCar(){
     console.log(this.modeli, this.name, this.year);
     
-  }
-}
+  },
+};
+cars.newCar();

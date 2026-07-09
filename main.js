@@ -134,5 +134,4 @@
 function greeat (name, callback){
   return callback(name)
 }
-greeat("Rano", (name)=>console.log("salom")
-)
+greeat("Rano", (name)=>console.log('salom, ${name}'));

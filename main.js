@@ -191,8 +191,10 @@
 
 let a = "fruits";
 function fruit(){
+  let b = "apple";
   function f(){
-    console.log(a,fruit, f);
+    let cgi = "banana"
+    console.log(a,b, c);
     
   }
   f();

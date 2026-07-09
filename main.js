@@ -92,13 +92,13 @@
 //     console.log(`${user.ism} ${user.yosh} yoshda.`);
 // });
 
-// 
-const num = 2;
-if(num > 0){
-  console.log("Berilgan son musbat" );
+// // 
+// const num = -2;
+// if(num > 0){
+//   console.log("Berilgan son musbat" );
   
-}else{
-  console.log("Berilgan son manfiy");
+// }else{
+//   console.log("Berilgan son manfiy");
   
-}
+// }
 

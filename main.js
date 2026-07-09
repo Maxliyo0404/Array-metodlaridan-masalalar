@@ -136,7 +136,13 @@
 // }
 // greeat("Rano", (name)=>console.log(`salom, ${name}`));
 
-function great(name, callbak){
-  return callbak(name)
+// function great(name, callbak){
+//   return callbak(name)
+// }
+// great('Ali',(name)=> console.log(`Salom, ${name}`));
+
+function num(number, ism){
+  return number(ism)
 }
-great('Ali',(name)=> console.log(`Salom, ${name}`));
+num('Maxliyo', (ism)=> console.log(`HOF funksiyasini amaliy yozilishini bilib oldim, ${ism}`);
+)

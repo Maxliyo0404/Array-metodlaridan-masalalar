@@ -205,7 +205,10 @@ const num = function(a){
   let son = 20;
   return function(b){
   let son1 = 40;
+  return son1 * son
   }
-  console.log(son * son1);
+  
   
 }
+const res = num(2)
+console.log(res());

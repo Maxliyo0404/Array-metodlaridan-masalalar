@@ -189,11 +189,11 @@
 // first();
 
 
-let a = "fruits";
+let a = "orange";
 function fruit(){
   let b = "apple";
   function f(){
-    let cgi = "banana"
+    let c = "banana"
     console.log(a,b, c);
     
   }

@@ -135,3 +135,8 @@
 //   return callback(name)
 // }
 // greeat("Rano", (name)=>console.log(`salom, ${name}`));
+
+function great(name, callbak){
+  return callbak(name)
+}
+great('Ali',(name)=> console.log(`Salom, ${name}`));

@@ -184,7 +184,7 @@
 //     let c = "second";
 //     console.log(a, b, c); // scope chain orqali barchasiga yetadi
 //   }
-//   second();
+//   send();
 // }
 // first();
 
@@ -192,7 +192,9 @@
 let a = "fruits";
 function fruit(){
   function f(){
-    console.log(a,fruit);
+    console.log(a,fruit, f);
     
   }
+  f();
 }
+fruit();

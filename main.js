@@ -153,3 +153,8 @@
 // const res = number(120);
 // console.log(res(4));
 
+const user = {
+  name: "Ali",
+  age: 20
+}
+const

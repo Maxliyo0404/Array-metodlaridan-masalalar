@@ -130,3 +130,7 @@
 // counter.increment();
 // console.log(counter.getCount()); // 1
 // console.log(counter.count); // undefined — himoyalangan
+
+function greeat (name, callback){
+  return
+}

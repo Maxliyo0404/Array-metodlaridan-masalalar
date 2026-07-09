@@ -131,7 +131,7 @@
 // console.log(counter.getCount()); // 1
 // console.log(counter.count); // undefined — himoyalangan
 
-function greeat (name, callback){
-  return callback(name)
-}
-greeat("Rano", (name)=>console.log('salom, ${name}'));
+// function greeat (name, callback){
+//   return callback(name)
+// }
+// greeat("Rano", (name)=>console.log(`salom, ${name}`));

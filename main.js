@@ -174,3 +174,16 @@
 //   },
 // };
 // cars.newCar();
+
+let a = "global";
+
+function first() {
+  let b = "first";
+
+  function second() {
+    let c = "second";
+    console.log(a, b, c); // scope chain orqali barchasiga yetadi
+  }
+  second();
+}
+first();

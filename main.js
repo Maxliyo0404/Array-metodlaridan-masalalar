@@ -234,3 +234,9 @@
     // }
     // console.log("Muvaffaqiyati o'tdingiz !!! ");
       let i = 0;
+      while(i < 10){
+        if( i ===5){
+          console.log("loop to'xtaildi");
+          
+        }
+      }

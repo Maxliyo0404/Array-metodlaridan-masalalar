@@ -222,4 +222,4 @@ while(i <= 5){
   sum += i;
   i++;
 }
-console.log(`sum`);
+console.log(`${sum}`);

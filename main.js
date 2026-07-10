@@ -232,17 +232,17 @@
     // while(parol !== "12345"){
     //   parol = prompt("Parolni kiriting");
     // }
-    // console.log("Muvaffaqiyati o'tdingiz !!! ");
-      let i = 0;
-      while(i < 10){
-        if( i ===5){
-          console.log("loop to'xtaildi");
-          break;
+    // // console.log("Muvaffaqiyati o'tdingiz !!! ");
+    //   let i = 0;
+    //   while(i < 10){
+    //     if( i ===5){
+    //       console.log("loop to'xtaildi");
+    //       break;
           
-        }
-        console.log(i);
-        i++
+    //     }
+    //     console.log(i);
+    //     i++
         
-      }
-      console.log("mengacham kel");
+    //   }
+  
       

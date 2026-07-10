@@ -224,4 +224,6 @@
 // }
 // console.log(`${sum}`);
   let parol = "";
-  while()
+  while(parol !== "1234"){
+    
+  }

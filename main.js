@@ -222,3 +222,4 @@ while(i <= 5){
   sum += i;
   i++;
 }
+console.log("");

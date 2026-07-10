@@ -213,4 +213,4 @@
 // const res = num(2)
 // console.log(res());
 
-for
+for( let i = 0;)

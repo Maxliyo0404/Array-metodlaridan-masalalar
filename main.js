@@ -212,7 +212,7 @@
 // }
 // const res = num(2)
 // console.log(res());
-
+let 
 for( let i = 0; i < 10; i++){
   console.log(i);
   

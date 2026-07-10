@@ -227,3 +227,5 @@
   while(parol !== "1234"){
     parol =prompt("parolni kiriting");
   }
+  console.log("To'g'ri parol kiritildi !");
+  

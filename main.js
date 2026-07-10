@@ -244,3 +244,5 @@
         i++
         
       }
+      console.log("mengacham kel");
+      

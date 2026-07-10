@@ -217,4 +217,4 @@
 //   console.log(i);
   
 // }
-let i = 0
+let i = 0; sum = 0;

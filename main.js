@@ -237,6 +237,10 @@
       while(i < 10){
         if( i ===5){
           console.log("loop to'xtaildi");
+          break;
           
         }
+        console.log(i);
+        i++
+        
       }

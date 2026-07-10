@@ -244,9 +244,7 @@
     //     i++
         
     //   }
-  
-      let i = 0;
-      do{
-        console.log('Salom do');
-        i++;
-      }while(i< 10)
+  for(let i = 0; i < 5; i++){
+    console.log(i);
+    
+  }

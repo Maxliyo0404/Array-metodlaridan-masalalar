@@ -228,9 +228,9 @@
   //   parol =prompt("parolni kiriting");
   // }
   // console.log("To'g'ri parol kiritildi !");
-    let parol = "";
-    while(parol !== "12345"){
-      parol = prompt("Parolni kiriting");
-    }
-    console.log("Muvaffaqiyati o'tdingiz !!! ");
-    
+    // let parol = "";
+    // while(parol !== "12345"){
+    //   parol = prompt("Parolni kiriting");
+    // }
+    // console.log("Muvaffaqiyati o'tdingiz !!! ");
+      let i = 0;

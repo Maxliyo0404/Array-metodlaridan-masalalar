@@ -216,10 +216,10 @@
 // for( let i = 0; i < 10; i++){
 //   console.log(i);
   
+// // }
+// let i = 0; sum = 0;
+// while(i <= 5){
+//   sum += i;
+//   i++;
 // }
-let i = 0; sum = 0;
-while(i <= 5){
-  sum += i;
-  i++;
-}
-console.log(`${sum}`);
+// console.log(`${sum}`);

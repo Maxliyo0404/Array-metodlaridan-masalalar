@@ -223,5 +223,5 @@
 //   i++;
 // }
 // console.log(`${sum}`);
-  let i = " ";
-  
+  let parol = "";
+  while()

@@ -245,4 +245,8 @@
         
     //   }
   
-      
+      let i = 0;
+      do{
+        console.log('Salom do');
+        i++;
+      }while(i< 10)

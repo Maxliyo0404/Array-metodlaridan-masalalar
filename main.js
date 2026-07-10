@@ -232,5 +232,5 @@
     while(parol !== "12345"){
       parol = prompt("Parolni kiriting");
     }
-    console.log("Muvaffaqiyati o'tdingiz !!!");
+    console.log("Muvaffaqiyati o'tdingiz !!! ");
     

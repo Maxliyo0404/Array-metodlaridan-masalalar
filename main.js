@@ -230,5 +230,5 @@
   // console.log("To'g'ri parol kiritildi !");
     let parol = "";
     while(parol !== "12345"){
-      
+      parol = prompt("Parolni kiriting");
     }

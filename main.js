@@ -248,3 +248,5 @@
     console.log(i);
     
   }
+  console.log("Shart bajarilda va men chiqdim qalay ");
+  

@@ -225,5 +225,5 @@
 // console.log(`${sum}`);
   let parol = "";
   while(parol !== "1234"){
-    
+    parol =prompt("parolni kiriting");
   }

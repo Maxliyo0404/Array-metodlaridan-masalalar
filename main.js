@@ -249,4 +249,17 @@
     
   // }
   // console.log("Shart bajarilda va men chiqdim qalay ");
+     
+
+  // function seyHello(){
+  //   console.log("salom Maxliyo");
+    
+  // }
+  // function great (calback, name){
+  //   alert(` salomlar, ${name}`);
+  //   calback();
+  // }
+  // great(seyHello , "Maxliyo");
+  
+
   

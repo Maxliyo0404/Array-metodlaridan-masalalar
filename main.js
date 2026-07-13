@@ -262,12 +262,29 @@
   // great(seyHello , "Maxliyo");
   
 
-  function seyHello(a, b){
-    return a+b;
-  }
-  function great (){
-    const result = seyHello(10, 28);
-    console.log(result);
+  // function seyHello(a, b){
+  //   return a+b;
+  // }
+  // function great (){
+  //   const result = seyHello(10, 28);
+  //   console.log(result);
+    
+  // }
+  // great();
+
+
+  function a(){
+    console.log(`Birinchi funksiya `);
     
   }
-  great();
+  function b(){
+    console.log(`Ikkinxhi funksiya`);
+    a();
+    
+  }
+  function c(){
+    console.log(`Uchinchi funksiya`);
+    b();
+    
+  }
+  c();

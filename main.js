@@ -292,3 +292,11 @@
     
   // }
   // c();
+
+  function a(value){
+    return value * value;
+  }
+  function b(value){
+  return value * value * value;
+  }
+  function c

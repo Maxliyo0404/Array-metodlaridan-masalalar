@@ -262,4 +262,12 @@
   // great(seyHello , "Maxliyo");
   
 
-  
+  function seyHello(a, b){
+    return a+b;
+  }
+  function great (){
+    const result = seyHello(10, 28);
+    console.log(result);
+    
+  }
+  great();

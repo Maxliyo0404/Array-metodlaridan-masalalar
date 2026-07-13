@@ -293,16 +293,16 @@
   // }
   // c();
 
-  function a(value){
-    return value * value;
-  }
-  function b(value){
-  return value * value * value;
-  }
-  function c(value){
-    console.log(`${value} ning kvadrat:`, a(value));
-    console.log(`${value} ning kubi :`, b(value));
+  // function a(value){
+  //   return value * value;
+  // }
+  // function b(value){
+  // return value * value * value;
+  // }
+  // function c(value){
+  //   console.log(`${value} ning kvadrat:`, a(value));
+  //   console.log(`${value} ning kubi :`, b(value));
     
     
-  }
-  c(7);
+  // }
+  // c(7);

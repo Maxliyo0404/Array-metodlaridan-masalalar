@@ -299,4 +299,10 @@
   function b(value){
   return value * value * value;
   }
-  function c
+  function c(value){
+    console.log(`${value} ning kvadrat:`, a(value));
+    console.log(`${value} ning kubi :`, b(value));
+    
+    
+  }
+  c(7);

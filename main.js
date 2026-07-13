@@ -273,22 +273,22 @@
   // great();
 
 
-  function a(){
-    console.log(`Birinchi funksiya `);
-    console.log(`bir tugadi`);
+  // function a(){
+  //   console.log(`Birinchi funksiya `);
+  //   console.log(`bir tugadi`);
     
     
-  }
-  function b(){
-    console.log(`Ikkinxhi funksiya`);
-    a();
-    console.log(`2 tugadi`);
+  // }
+  // function b(){
+  //   console.log(`Ikkinxhi funksiya`);
+  //   a();
+  //   console.log(`2 tugadi`);
     
-  }
-  function c(){
-    console.log(`Uchinchi funksiya`);
-    b();
-    console.log(`3 tugadi`);
+  // }
+  // function c(){
+  //   console.log(`Uchinchi funksiya`);
+  //   b();
+  //   console.log(`3 tugadi`);
     
-  }
-  c();
+  // }
+  // c();

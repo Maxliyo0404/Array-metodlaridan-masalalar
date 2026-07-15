@@ -319,5 +319,5 @@
 // users("Alimardon");
 
 const col = ()=> {
-  return
+  return ("salom diydor shirin ")
 }

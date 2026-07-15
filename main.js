@@ -328,4 +328,4 @@ const names = function (name){
   console.log("salom ${name}");
   
 }
-names
+names("Lola")

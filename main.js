@@ -316,3 +316,4 @@ const users = function(name){
   console.log(`Salom` ${name});
   
 }
+users()

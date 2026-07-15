@@ -325,6 +325,6 @@
    
 
 const names = function (){
-  console.log("salom");
+  console.log("salom ${}");
   
 }

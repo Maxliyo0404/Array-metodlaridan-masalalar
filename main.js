@@ -312,4 +312,4 @@
 //   }
 //  console.log( paramets(4,8));
  
-const users = function
+const users = function(user)

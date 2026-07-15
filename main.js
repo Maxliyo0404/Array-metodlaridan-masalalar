@@ -312,8 +312,8 @@
 //   }
 //  console.log( paramets(4,8));
  
-const users = function(name){
-  console.log(`Salom ${name}`);
+// const users = function(name){
+//   console.log(`Salom ${name}`);
   
-}
-users("Alimardon");
+// }
+// users("Alimardon");

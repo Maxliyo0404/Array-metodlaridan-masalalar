@@ -307,8 +307,8 @@
   // }
   // c(7);
 
-  function paramets(a, b){
-    return a * b;
-  }
- console.log( paramets(4,8));
+//   function paramets(a, b){
+//     return a * b;
+//   }
+//  console.log( paramets(4,8));
  

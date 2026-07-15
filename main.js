@@ -312,7 +312,7 @@
 //   }
 //  console.log( paramets(4,8));
  
-const users = function(user){
+const users = function(name){
   console.log(`Salom` ${});
   
 }

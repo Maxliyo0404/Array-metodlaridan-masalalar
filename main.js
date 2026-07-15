@@ -310,5 +310,5 @@
   function paramets(a, b){
     return a + b;
   }
-  paramets(4,8);
-  
+ console.log( paramets(4,8););
+ 

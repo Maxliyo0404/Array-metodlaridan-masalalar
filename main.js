@@ -307,6 +307,6 @@
   // }
   // c(7);
 
-  function paramets(){
-    
+  function paramets(a, b){
+    return
   }

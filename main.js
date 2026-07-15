@@ -318,14 +318,4 @@
 // }
 // users("Alimardon");
 
-// const col = ()=> {
-//   return ("salom diydor shirin ")
-// }
-// console.log(col());
-   
 
-const names = function (name){
-  console.log("salom ${name}");
-  
-}
-names("Lola")

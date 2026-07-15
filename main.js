@@ -313,6 +313,6 @@
 //  console.log( paramets(4,8));
  
 const users = function(user){
-  console.log(`Salom` ${name});
+  console.log(`Salom` ${});
   
 }

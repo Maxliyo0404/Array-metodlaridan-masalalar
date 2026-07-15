@@ -322,3 +322,6 @@
 //   return ("salom diydor shirin ")
 // }
 // console.log(col());
+   
+
+const names 

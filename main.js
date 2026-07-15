@@ -324,7 +324,7 @@
 // console.log(col());
    
 
-const names = function (){
-  console.log("salom ${}");
+const names = function (name){
+  console.log("salom ${name}");
   
 }

@@ -318,7 +318,7 @@
 // }
 // users("Alimardon");
 
-const col = ()=> {
-  return ("salom diydor shirin ")
-}
-console.log(col());
+// const col = ()=> {
+//   return ("salom diydor shirin ")
+// }
+// console.log(col());

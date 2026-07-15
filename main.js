@@ -308,5 +308,5 @@
   // c(7);
 
   function paramets(a, b){
-    return
+    return a + b
   }

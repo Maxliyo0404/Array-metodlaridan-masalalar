@@ -307,6 +307,4 @@
   // }
   // c(7);
 
-  function name(params) {
-    
-  }
+  function paramets

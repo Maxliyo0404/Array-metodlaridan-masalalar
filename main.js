@@ -318,6 +318,6 @@
 // }
 // users("Alimardon");
 
-const col = () {
+const col = ()=> {
 
 }

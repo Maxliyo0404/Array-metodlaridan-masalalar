@@ -321,3 +321,4 @@
 const col = ()=> {
   return ("salom diydor shirin ")
 }
+console.log();

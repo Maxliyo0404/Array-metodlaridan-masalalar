@@ -307,4 +307,6 @@
   // }
   // c(7);
 
-  function paramets
+  function paramets(){
+    
+  }

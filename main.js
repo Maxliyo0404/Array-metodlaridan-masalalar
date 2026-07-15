@@ -324,4 +324,7 @@
 // console.log(col());
    
 
-const names = function ()
+const names = function (){
+  console.log("salom");
+  
+}

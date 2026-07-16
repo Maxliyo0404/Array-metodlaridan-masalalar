@@ -359,4 +359,7 @@
 
  
  
-  
+  const user ={
+    name: "Abdulloh",
+    
+  }

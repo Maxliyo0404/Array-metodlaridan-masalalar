@@ -342,4 +342,7 @@ const teacher ={
   }
 };
  const {adress }= teacher;
- const {city, region} = adress 
+ const {city, region} = adress;
+ console.log(adress);
+ 
+  

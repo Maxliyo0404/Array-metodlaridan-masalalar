@@ -363,4 +363,7 @@
     name: "Abdulloh",
     age: 12
   }
+  const {name: firstname, age: userage} =user;
+  console.log(firstname);
+  
   

@@ -341,3 +341,4 @@ const teacher ={
     region: "Yunusabod"
   }
 };
+ const adress = teacher;

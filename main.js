@@ -361,5 +361,6 @@
  
   const user ={
     name: "Abdulloh",
-    
+    age: 12
   }
+  

@@ -319,6 +319,6 @@
 // users("Alimardon");
 
 
-const mevalar = ["olma", "banan", "nok"];
+// const mevalar = ["olma", "banan", "nok"];
 
-console.log(mevalar[2]);
+// console.log(mevalar[2]);

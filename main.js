@@ -319,6 +319,6 @@
 // users("Alimardon");
 
 
-const users = ["olma", "banana", "nok"];
+const mevalar = ["olma", "banan", "nok"];
 
-console.log(users[2]);
+console.log(mevalar[2]);

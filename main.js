@@ -323,11 +323,11 @@
 
 // console.log(mevalar[2]);
 
-const users ={
-  name: "Donyor",
-  age: 29
-}
-function seyHello({name, age}){
-  return(`Salom mening ismim ${name},  ${age} yoshdaman`);
-}
-console.log(seyHello(users));
+// const users ={
+//   name: "Donyor",
+//   age: 29
+// }
+// function seyHello({name, age}){
+//   return(`Salom mening ismim ${name},  ${age} yoshdaman`);
+// }
+// console.log(seyHello(users));

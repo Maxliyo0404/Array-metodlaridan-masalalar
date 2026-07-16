@@ -345,6 +345,7 @@ const teacher ={
  const {city, region} = adress;
  console.log(adress);
  console.log(city);
+ console.log(region);
  
  
   

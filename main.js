@@ -365,5 +365,6 @@
   }
   const {name: firstname, age: userage} =user;
   console.log(firstname);
+  console.log(userage);
   
   

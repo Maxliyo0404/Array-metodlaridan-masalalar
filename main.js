@@ -328,5 +328,5 @@ const users ={
   age: 29
 }
 function seyHello(name, aage){
-  return(`Salom mening ismim ${name}`)
+  return(`Salom mening ismim ${name}  ${age} `)
 }

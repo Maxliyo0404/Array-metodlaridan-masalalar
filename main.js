@@ -338,6 +338,6 @@ const teacher ={
   age: 34,
   adress:{
     city: "Tashkent",
-    region
+    region: "Yunusabod"
   }
 }

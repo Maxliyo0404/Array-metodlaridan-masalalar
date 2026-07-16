@@ -333,19 +333,19 @@
 // console.log(seyHello(users));
 
 
-const teacher ={
-  name: "Maxliyo",
-  age: 34,
-  adress:{
-    city: "Tashkent",
-    region: "Yunusabod"
-  }
-};
- const {adress }= teacher;
- const {city, region} = adress;
- console.log(adress);
- console.log(city);
- console.log(region);
+// const teacher ={
+//   name: "Maxliyo",
+//   age: 34,
+//   adress:{
+//     city: "Tashkent",
+//     region: "Yunusabod"
+//   }
+// };
+//  const {adress }= teacher;
+//  const {city, region} = adress;
+//  console.log(adress);
+//  console.log(city);
+//  console.log(region);
  
  
   

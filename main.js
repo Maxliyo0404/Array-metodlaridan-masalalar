@@ -320,4 +320,4 @@
 
 
 const users = ["olma", "banana", "nok"];
-console.log(users);
+console.log(users(0));

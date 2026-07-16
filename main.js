@@ -359,12 +359,12 @@
 
  
  
-  const user ={
-    name: "Abdulloh",
-    age: 12
-  }
-  const {name: firstname, age: userage} =user;
-  console.log(firstname);
-  console.log(userage);
+  // const user ={
+  //   name: "Abdulloh",
+  //   age: 12
+  // }
+  // const {name: firstname, age: userage} =user;
+  // console.log(firstname);
+  // console.log(userage);
   
   

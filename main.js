@@ -332,7 +332,7 @@
 // }
 // console.log(seyHello(users));
 
-
+// Ichki obyektni ajratish usuli
 // const teacher ={
 //   name: "Maxliyo",
 //   age: 34,
@@ -346,6 +346,9 @@
 //  console.log(adress);
 //  console.log(city);
 //  console.log(region);
+
+//Defualt qismi
+
  
  
   

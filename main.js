@@ -349,13 +349,13 @@
 
 //Defualt qismi
 
-const user = {
-  name: "Alisher",
-  age: "35",
-  city: "Korea"
-}
-const {name, age, city = "Aniqlanmagan"} =user;
-console.log(city);
+// const user = {
+//   name: "Alisher",
+//   age: "35",
+//   city: "Korea"
+// }
+// const {name, age, city = "Aniqlanmagan"} =user;
+// console.log(city);
 
  
  

@@ -349,8 +349,9 @@
 
 //Defualt qismi
 
-const user{
-  
+const user = {
+  name: "Alisher",
+  age: "35"
 }
  
  

@@ -319,3 +319,4 @@
 // users("Alimardon");
 
 
+const users = ["olma", "banana", "nok"];

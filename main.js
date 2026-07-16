@@ -340,4 +340,4 @@ const teacher ={
     city: "Tashkent",
     region: "Yunusabod"
   }
-}
+};

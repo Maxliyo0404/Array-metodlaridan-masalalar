@@ -353,6 +353,7 @@ const user = {
   name: "Alisher",
   age: "35"
 }
+const {}
  
  
   

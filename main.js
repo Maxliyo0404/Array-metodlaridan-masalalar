@@ -334,5 +334,7 @@
 
 
 const teacher ={
+  name: "Maxliyo",
+  age: 34,
   
 }

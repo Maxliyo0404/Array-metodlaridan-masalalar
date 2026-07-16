@@ -331,3 +331,8 @@
 //   return(`Salom mening ismim ${name},  ${age} yoshdaman`);
 // }
 // console.log(seyHello(users));
+
+
+const teacher ={
+  
+}

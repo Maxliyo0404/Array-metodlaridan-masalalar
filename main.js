@@ -322,3 +322,5 @@
 // const mevalar = ["olma", "banan", "nok"];
 
 // console.log(mevalar[2]);
+
+const

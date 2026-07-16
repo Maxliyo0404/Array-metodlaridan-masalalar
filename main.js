@@ -351,9 +351,12 @@
 
 const user = {
   name: "Alisher",
-  age: "35"
+  age: "35",
+  
 }
-const {name, age, city = "Aniqlanmagan"} =user
+const {name, age, city = "Aniqlanmagan"} =user;
+console.log(city);
+
  
  
   

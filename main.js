@@ -330,3 +330,4 @@ const users ={
 function seyHello(name, aage){
   return(`Salom mening ismim ${name}  ${age} yoshdaman`);
 }
+console.log(seyHello(users));

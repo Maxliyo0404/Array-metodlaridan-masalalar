@@ -323,4 +323,7 @@
 
 // console.log(mevalar[2]);
 
-const
+const users ={
+  name: "Donyor",
+  
+}

@@ -349,7 +349,9 @@
 
 //Defualt qismi
 
-const 
+const user{
+  
+}
  
  
   

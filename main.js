@@ -327,7 +327,7 @@ const users ={
   name: "Donyor",
   age: 29
 }
-function seyHello(name, aage){
+function seyHello({name, aage}){
   return(`Salom mening ismim ${name},  ${age} yoshdaman`);
 }
 console.log(seyHello(users));

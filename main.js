@@ -389,3 +389,4 @@
     name: "Sitora",
     age: 11,
   }
+  const {name:}

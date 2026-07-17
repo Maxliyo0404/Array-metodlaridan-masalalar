@@ -386,5 +386,5 @@
   // console.log(numbers);
  
   const nums ={
-    name:
+    
   }

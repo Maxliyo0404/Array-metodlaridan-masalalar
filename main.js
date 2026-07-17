@@ -378,4 +378,4 @@
 // console.log(sum(1, 2, 3, 4, 5, 6));
 
 const numbers = [1, 3, 6, 8, 9];
-const raqamlar 
+const raqamlar = [10, 50, 70, 20];

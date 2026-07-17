@@ -381,8 +381,8 @@
 // const raqamlar = [10, 50, 70, 20];
 // const raqam = [...numbers, ...raqamlar];
 // console.log(raqam);
-  let  numbers =[20, 30, 2];
-  numbers.push("lola");
-  console.log(numbers);
+  // let  numbers =[20, 30, 2];
+  // numbers.push("lola");
+  // console.log(numbers);
  
   

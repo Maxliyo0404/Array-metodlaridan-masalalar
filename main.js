@@ -389,5 +389,6 @@
     name: "Sitora",
     age: 11,
   }
-  const {name:Sitora student:true}
-  ul
+  const {name:Sitora student:true} = nu
+  console.log(nums);
+  

@@ -379,5 +379,5 @@
 
 const numbers = [1, 3, 6, 8, 9];
 const raqamlar = [10, 50, 70, 20];
-const raqam = [...numbers, raqamlar];
+const raqam = [...numbers, ...raqamlar];
 console.log(raqam);

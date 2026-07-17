@@ -387,5 +387,5 @@
  
   const nums ={
     name: "Sitora";
-    age
+    age: 11,
   }

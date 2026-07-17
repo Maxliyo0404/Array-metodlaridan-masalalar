@@ -391,6 +391,6 @@
     students:true
 
   }
-  const {name:Sitora , student:true}=nums;
+  const {name:Sitora , students:true}=nums;
   console.log(nums);
   

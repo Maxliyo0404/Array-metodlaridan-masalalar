@@ -388,6 +388,9 @@
   const nums ={
     name: "Sitora",
     age: 11,
+    setTimeout(() => {
+      
+    }, dent:true);
   }
   const {name:Sitora student:true}=nums;
   console.log(nums);

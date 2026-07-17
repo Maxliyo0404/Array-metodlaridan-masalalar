@@ -386,6 +386,6 @@
   // console.log(numbers);
  
   const nums ={
-    name: "Sitora";
+    name: "Sitora",
     age: 11,
   }

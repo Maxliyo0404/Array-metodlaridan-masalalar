@@ -385,4 +385,6 @@
   // numbers.push("lola");
   // console.log(numbers);
  
-  const nums =
+  const nums ={
+    name:
+  }

@@ -389,4 +389,5 @@
     name: "Sitora",
     age: 11,
   }
-  const {name:Sitora student:}
+  const {name:Sitora student:true}
+  ul

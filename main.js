@@ -382,3 +382,4 @@
 // const raqam = [...numbers, ...raqamlar];
 // console.log(raqam);
   let  numbers =[20, 30, 2];
+  numbers.push(lola)

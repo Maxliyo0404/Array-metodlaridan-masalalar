@@ -390,7 +390,7 @@
     age: 11,
     students:true
 
-  }
-  const {name , students}=nums;
-  console.log(nums);
+  // }
+  // const {name , students}=nums;
+  // console.log(nums);
   

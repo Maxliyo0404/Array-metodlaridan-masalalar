@@ -388,9 +388,8 @@
   const nums ={
     name: "Sitora",
     age: 11,
-    setTimeout(() => {
     students:true
-    });
+
   }
   const {name:Sitora student:true}=nums;
   console.log(nums);

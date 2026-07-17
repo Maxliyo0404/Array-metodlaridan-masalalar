@@ -389,4 +389,4 @@
     name: "Sitora",
     age: 11,
   }
-  const {name:}
+  const {name:Sitora student:}

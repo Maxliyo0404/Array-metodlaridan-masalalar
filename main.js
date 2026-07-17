@@ -384,5 +384,5 @@
   let  numbers =[20, 30, 2];
   numbers.push(lola);
   console.log(numbers);
-  console.log(numbers);
+ 
   

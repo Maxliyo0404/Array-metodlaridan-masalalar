@@ -385,10 +385,7 @@
   // numbers.push("lola");
   // console.log(numbers);
  
-  const nums ={
-    name: "Sitora",
-    age: 11,
-    students:true
+// 
 
   // }
   // const {name , students}=nums;

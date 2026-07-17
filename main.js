@@ -381,4 +381,4 @@
 // const raqamlar = [10, 50, 70, 20];
 // const raqam = [...numbers, ...raqamlar];
 // console.log(raqam);
-  let 
+  let  numbers =[20, 30, 2];

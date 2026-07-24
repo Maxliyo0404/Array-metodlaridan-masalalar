@@ -391,9 +391,11 @@
   // const {name , students}=nums;
   // console.log(nums);
 
-  function seyHello (a, b){
-    return a * b;
+  // function seyHello (a, b){
+  //   return a * b;
+  // }
+  // console.log(seyHello(20, 30));
+  
+  const sum = ()=>{
+
   }
-  console.log(seyHello(20, 30));
-  
-  

@@ -391,7 +391,7 @@
   // const {name , students}=nums;
   // console.log(nums);
 
-  function seyHello (){
-    return
+  function seyHello (a, b){
+    return a + b;
   }
   

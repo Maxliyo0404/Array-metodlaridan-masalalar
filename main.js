@@ -410,8 +410,8 @@
 
 
   function seyHello(name){
-    return(`Salom ${name}`);
+    return(`Salom ${name}  men sizni yax`);
     
   }
-  console.log(seyHello(""));
+  console.log(seyHello("Alisher !"));
   

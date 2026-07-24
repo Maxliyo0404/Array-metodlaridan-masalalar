@@ -413,5 +413,7 @@
     return(`Salom ${name}  men sizni yaxshi ko'raman`);
     
   }
-  const sey = function ()
+  const sey = function (ism){
+    
+  }
   

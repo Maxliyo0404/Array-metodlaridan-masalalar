@@ -418,5 +418,6 @@
     alert(hello);
     return hello
   }
-  sey("Maxliyo");
+console.log(  sey("Maxliyo"));
+;
   

@@ -414,10 +414,10 @@
     
   }
   const sey = function (ism){
-    const hello = seyHello(ism);
+    const hello = seyHello(`${ism} dedi Alisher`);
     alert(hello);
     return hello
   }
-console.log(  sey("Maxliyo  dedi Alisher"));
+console.log(  sey("Maxliyo"));
 ;
   

@@ -409,15 +409,15 @@
   
 
 
-  function seyHello(name){
-    return(`Salom ${name}  men sizni yaxshi ko'raman`);
+//   function seyHello(name){
+//     return(`Salom ${name}  men sizni yaxshi ko'raman  dedi Alisher`);
     
-  }
-  const sey = function (ism){
-    const hello = seyHello(`${ism} dedi Alisher`);
-    alert(hello);
-    return hello
-  }
-console.log(  sey("Maxliyo"));
-;
+//   }
+//   const sey = function (ism){
+//     const hello = seyHello(ism);
+//     alert(hello);
+//     return hello
+//   }
+// console.log(  sey("Maxliyo"));
+// ;
   

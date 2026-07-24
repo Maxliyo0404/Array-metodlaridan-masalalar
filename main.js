@@ -396,8 +396,8 @@
   // }
   // console.log(seyHello(20, 30));
   
-  const sum = (a, b)=>{
-   return a / b;
-  }
-  console.log(sum(81, 9));
+  // const sum = (a, b)=>{
+  //  return a / b;
+  // }
+  // console.log(sum(81, 9));
   

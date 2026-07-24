@@ -392,7 +392,7 @@
   // console.log(nums);
 
   function seyHello (a, b){
-    return a + b;
+    return a * b;
   }
   console.log(seyHello(20, 30));
   

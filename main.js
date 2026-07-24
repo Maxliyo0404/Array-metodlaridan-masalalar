@@ -418,6 +418,6 @@
     alert(hello);
     return hello
   }
-console.log(  sey("Maxliyo"));
+console.log(  sey("Maxliyo  dedi Alisher"));
 ;
   

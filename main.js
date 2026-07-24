@@ -409,7 +409,7 @@
   
 
 
-  function seyHello(){
-    console.log(``);
+  function seyHello(name){
+    console.log(`Salom`);
     
   }

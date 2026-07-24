@@ -418,5 +418,5 @@
     alert(hello);
     
   }
-  console.log(sey("Maxliyo"));
+  sey("Maxliyo");
   

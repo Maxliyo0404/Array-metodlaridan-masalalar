@@ -413,3 +413,5 @@
     return(`Salom ${Alisher}`);
     
   }
+  console.log(seyHello());
+  

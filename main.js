@@ -403,5 +403,5 @@
     
 
   const sum = function(a,b){
-    return
+    return a / b;
   }

@@ -413,5 +413,5 @@
     return(`Salom ${name}  men sizni yaxshi ko'raman`);
     
   }
-  console.log(seyHello("Alisher sizchi yaxshi ko'rasizmi"));
+  console.log(seyHello("Dadajonisi"));
   

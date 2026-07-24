@@ -409,7 +409,7 @@
   
 
 
-  // function seyHello(name){
-  //   console.log(`Salom ${Alisher}`);
+  function seyHello(name){
+    return(`Salom ${Alisher}`);
     
-  // }
+  }

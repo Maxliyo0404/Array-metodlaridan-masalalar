@@ -390,4 +390,6 @@
   // }
   // const {name , students}=nums;
   // console.log(nums);
+
+  function
   

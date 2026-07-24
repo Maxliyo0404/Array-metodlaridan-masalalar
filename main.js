@@ -413,5 +413,5 @@
     return(`Salom ${name}  men sizni yaxshi ko'raman`);
     
   }
-  console.log(seyHello("Dadajonisi"));
+  const sey = function ()
   

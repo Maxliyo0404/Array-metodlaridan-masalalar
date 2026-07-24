@@ -416,7 +416,7 @@
   const sey = function (ism){
     const hello = seyHello(ism);
     alert(hello);
-    
+    return hello
   }
   sey("Maxliyo");
   

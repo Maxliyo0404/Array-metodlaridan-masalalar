@@ -415,7 +415,7 @@
   }
   const sey = function (ism){
     const hello = seyHello(ism);
-    alert(`seyHello ${ism}`);
+    alert(hello);
     
   }
   console.log(sey("Maxliyo"));

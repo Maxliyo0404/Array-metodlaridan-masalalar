@@ -397,5 +397,5 @@
   // console.log(seyHello(20, 30));
   
   const sum = (a, b)=>{
-   return
+   return a / b;
   }

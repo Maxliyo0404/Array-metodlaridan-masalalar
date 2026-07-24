@@ -410,7 +410,7 @@
 
 
   function seyHello(name){
-    return(`Salom ${name}  men sizni yax`);
+    return(`Salom ${name}  men sizni yaxshi ko'raman`);
     
   }
   console.log(seyHello("Alisher !"));

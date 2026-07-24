@@ -414,7 +414,7 @@
     
   }
   const sey = function (ism){
-    const hello =
+    const hello = seyHello(ism);
     alert(`seyHello ${ism}`);
     
   }

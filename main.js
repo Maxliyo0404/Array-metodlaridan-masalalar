@@ -414,6 +414,7 @@
     
   }
   const sey = function (ism){
+    const
     alert(`seyHello ${ism}`);
     
   }

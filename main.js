@@ -396,6 +396,6 @@
   // }
   // console.log(seyHello(20, 30));
   
-  const sum = ()=>{
-
+  const sum = (a, b)=>{
+   return
   }

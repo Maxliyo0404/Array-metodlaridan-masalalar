@@ -410,6 +410,6 @@
 
 
   function seyHello(name){
-    console.log(`Salom`);
+    console.log(`Salom ${Alisher}`);
     
   }

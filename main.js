@@ -402,8 +402,8 @@
   // console.log(sum(81, 9));
     
 
-  const sum = function(a,b){
-    return a / b;
-  }
-  console.log(sum(160, 4));
+  // const sum = function(a,b){
+  //   return a / b;
+  // }
+  // console.log(sum(160, 4));
   

@@ -447,10 +447,16 @@
 //   return harf.filter((item, index)=> harf.indexOf(item)=== index).sort();
 // }
 // console.log(harflar(["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"]));
-  function newArray(arr){
-  return arr.reduce((acc, item)=>{
-    if(Array.isArray(array)){
-      return.acc.contact
+  function customFlat(arr) {
+  return arr.reduce((acc, item) => {
+    // Agar item massiv bo'lsa, uni yana customFlat ga yuboramiz (rekursiya)
+    // Aks holda elementning o'zini qo'shamiz
+    if (Array.isArray(item)) {
+      return acc.concat(customFlat(item));
+    } else {
+      return acc.concat(item);
     }
-  })
-  }
+  }, []);
+}
+
+console.log(customFlat([1, [2, [3, 4], 5], 6])); // [1, 2, 3, 4, 5, 6]

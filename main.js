@@ -437,3 +437,7 @@
 //   return[...new Set(meva)];
 // }
 // console.log(mevalar(["banan", "olma", "banan", "nok","olma", "gilos", "nok", "orik"]));
+   
+function newArray(arr){
+  return
+}

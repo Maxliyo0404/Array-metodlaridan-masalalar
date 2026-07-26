@@ -449,6 +449,8 @@
 // console.log(harflar(["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"]));
   function newArray(arr){
   return arr.reduce((acc, item)=>{
-    if(Array.isArray)
+    if(Array.isArray(array)){
+      
+    }
   })
   }

@@ -439,5 +439,5 @@
 // console.log(mevalar(["banan", "olma", "banan", "nok","olma", "gilos", "nok", "orik"]));
    
 function newArray(arr){
-  return
+  return arr.filter((item, index))
 }

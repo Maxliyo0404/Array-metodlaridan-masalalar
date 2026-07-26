@@ -439,6 +439,6 @@
 // console.log(mevalar(["banan", "olma", "banan", "nok","olma", "gilos", "nok", "orik"]));
    
 function newArray(arr){
-  return arr.filter((item, index)=> arr.indexOf(item) ===index);
+  return arr.filter((item, index)=> arr.indexOf(item) ===index).sort((a, b));
 }
 console.log(newArray([1,3,4,4,5,7,7,9,7,2,1,6,8,6]));

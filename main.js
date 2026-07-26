@@ -427,9 +427,12 @@
 // const number = [1,3,4,4,5,7,7,9,7,2,1,6,8,6];
 // console.log(newArray(number));
 
-  function harflar(harf){
-    return[...new Set(harf)].sort();
-  }
-  const newHarf = ["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"];
-  console.log(harflar(newHarf));
+  // function harflar(harf){
+  //   return[...new Set(harf)].sort();
+  // }
+  // const newHarf = ["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"];
+  // console.log(harflar(newHarf));
   
+function mevalar(meva){
+  return{...new Set(meva)}
+}

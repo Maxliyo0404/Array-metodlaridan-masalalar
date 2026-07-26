@@ -447,3 +447,6 @@
 //   return harf.filter((item, index)=> harf.indexOf(item)=== index).sort();
 // }
 // console.log(harflar(["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"]));
+  function newArray(arr){
+    return
+  }

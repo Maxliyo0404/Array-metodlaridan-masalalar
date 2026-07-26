@@ -442,3 +442,5 @@
 //   return arr.filter((item, index)=> arr.indexOf(item) ===index).sort((a, b)=> a-b);
 // }
 // console.log(newArray([1,3,4,4,5,7,7,9,7,2,1,6,8,6]));
+
+function harflar()harf

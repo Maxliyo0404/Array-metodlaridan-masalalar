@@ -421,7 +421,7 @@
 // console.log(  sey("Maxliyo"));
 // ;
 
-function newArray(){
-  return[...Set()];
+function newArray(arr){
+  return[...new Set(arr)];
 }
   

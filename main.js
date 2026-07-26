@@ -427,4 +427,4 @@
 // const number = [1,3,4,4,5,7,7,9,7,2,1,6,8,6];
 // console.log(newArray(number));
 
-  
+  function harflar()

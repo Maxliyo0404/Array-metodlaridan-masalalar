@@ -430,4 +430,4 @@
   function harflar(harf){
     return[...new Set(harf)].sort((a, b)=>a-b);
   }
-  const newHarf = [a, s, d, k, ]
+  const newHarf = [a, s, d, k, b, h, m, q]

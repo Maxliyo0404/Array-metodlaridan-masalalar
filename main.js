@@ -443,7 +443,7 @@
 // }
 // console.log(newArray([1,3,4,4,5,7,7,9,7,2,1,6,8,6]));
 
-function harflar(harf){
-  return harf.filter((item, index)=> harf.indexOf(item)=== index).sort();
-}
-console.log(harflar(["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"]));
+// function harflar(harf){
+//   return harf.filter((item, index)=> harf.indexOf(item)=== index).sort();
+// }
+// console.log(harflar(["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"]));

@@ -421,5 +421,7 @@
 // console.log(  sey("Maxliyo"));
 // ;
 
-function 
+function newArray(){
+  return
+}
   

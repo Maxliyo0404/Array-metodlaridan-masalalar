@@ -433,7 +433,7 @@
   // const newHarf = ["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"];
   // console.log(harflar(newHarf));
   
-function mevalar(meva){
-  return[...new Set(meva)];
-}
-console.log(mevalar(["banan", "olma", "banan", "nok","olma", "gilos", "nok", "orik"]));
+// function mevalar(meva){
+//   return[...new Set(meva)];
+// }
+// console.log(mevalar(["banan", "olma", "banan", "nok","olma", "gilos", "nok", "orik"]));

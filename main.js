@@ -434,6 +434,6 @@
   // console.log(harflar(newHarf));
   
 function mevalar(meva){
-  return{...new Set(meva)};
+  return[...new Set(meva)];
 }
-console.log();
+console.log(mevalar([]));

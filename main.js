@@ -436,4 +436,4 @@
 function mevalar(meva){
   return[...new Set(meva)];
 }
-console.log(mevalar([]));
+console.log(mevalar(["banan", "olma", "banan", "nok","olma", "gilos", "nok", "orik"]));

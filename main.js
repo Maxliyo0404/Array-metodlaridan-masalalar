@@ -428,7 +428,7 @@
 // console.log(newArray(number));
 
   function harflar(harf){
-    return[...new Set(harf)].sort((a, b)=>a-b);
+    return[...new Set(harf)].sort();
   }
   const newHarf = ["a", "s", "d", "k", "b", "h", "m", "q", "a", "b", "s", "h","b","a"];
   console.log(harflar(newHarf));

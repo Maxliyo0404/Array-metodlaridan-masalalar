@@ -422,6 +422,6 @@
 // ;
 
 function newArray(){
-  return
+  return[...Set()];
 }
   

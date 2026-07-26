@@ -450,7 +450,7 @@
   function newArray(arr){
   return arr.reduce((acc, item)=>{
     if(Array.isArray(array)){
-      
+      return.acc.contact
     }
   })
   }
